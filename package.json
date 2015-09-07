@@ -1,0 +1,23 @@
+{
+  "name": "testdev",
+  "version": "0.0.0",
+  "description": "Testing node",
+  "main": "hello.js",
+  "dependencies": {
+    "express": "~4.13.3",
+    "request": "~2.61.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dan83/testdev.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/dan83/testdev/issues"
+  }
+}
